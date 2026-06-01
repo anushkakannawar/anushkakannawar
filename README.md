@@ -72,11 +72,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushkakannawar&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkakannawar&layout=compact&theme=tokyonight" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anushkakannawar&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkakannawar&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -90,7 +88,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anushkakannawar&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anushkakannawar&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
