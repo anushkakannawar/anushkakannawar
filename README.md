@@ -17,7 +17,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 Engineering Student
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Programming Languages
 
@@ -71,7 +71,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakannawar&theme=tokyonight"/>
