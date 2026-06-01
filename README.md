@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkakannawar/repository-name/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/anushkakannawar/anushkakannawar/main/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Kannawar</h1>
