@@ -17,10 +17,9 @@
 
 ---
 
-#  About Me
+# About Me
 
 I am a Computer Science and Engineering student at MIT Academy of Engineering, specializing in Data Science and full-stack web development. I'm passionate about building scalable solutions that merge high-performance web applications with artificial intelligence.
-
 
 📫 Reach me at: anushkakannawar8@gmail.com
 
@@ -30,7 +29,7 @@ I am a Computer Science and Engineering student at MIT Academy of Engineering, s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,react,pytorch,tensorflow,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,git,github,vscode&perline=9" />
   </a>
 </p>
 
