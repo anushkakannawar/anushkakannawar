@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/anushkakannawar/anushkakannawar/main/banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Anushka Kannawar</h1>
+<h1 align="center">Hi 👋, I'm Anushka </h1>
 
 <h3 align="center">Full Stack Developer | AI Enthusiast | Engineering Student</h3>
 
